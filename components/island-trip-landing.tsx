@@ -803,8 +803,8 @@ export function IslandTripLanding() {
                   <a href="#" className="block text-slate-600 hover:text-teal-600 transition-colors">
                     Ferry Tracker
                   </a>
-                  <a href="#" className="block text-slate-600 hover:text-teal-600 transition-colors">
-                    AI Trip Planner
+                  <a href="https://www.myislandtrip.online" className="block text-slate-600 hover:text-teal-600 transition-colors">
+                    Blogs
                   </a>
                   <a href="#" className="block text-slate-600 hover:text-teal-600 transition-colors">
                     Local Experiences
